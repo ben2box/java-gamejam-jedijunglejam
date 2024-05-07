@@ -9,7 +9,7 @@ Otherwise, you can clone this repo and build it yourself, while taking a gander 
 
 An endless runner based on what we imagine our Jedi's morning routine to be like.
 
-Beware. It's Dark Souls levels of impossible. Hitboxes are merciless. 
+Beware. It's Dark Souls levels of impossible. Hitboxes are merciless (we're very proud of our hit detection code). 
 
 Fun fact: the voice clip when the player dies is as much a statement about the player's performance as it is about game's quality itself. 
 
